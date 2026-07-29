@@ -1,0 +1,9 @@
+# Ignore raw data files and local databases
+data/*.csv
+*.csv
+*.db
+*.sqlite3
+
+# Ignore system files
+.DS_Store
+Thumbs.db
