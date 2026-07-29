@@ -21,9 +21,9 @@ Customer acquisition costs in retail continue to climb, making retention a top d
 
 • Key Insight: The top 50 "At Risk" customers account for over $185,000 in churn risk alone, with an average purchase gap    exceeding 150+ days.
 
-🚀 Recommended Action Plan
-# 1. VIP Outreach Program: Trigger personalized account manager calls for the top 10 at-risk customers (spend > $10,000).
+# 🚀 Recommended Action Plan
+1. VIP Outreach Program: Trigger personalized account manager calls for the top 10 at-risk customers (spend > $10,000).
 
-# 2. Automated Re-engagement Campaigns: Implement a 3-stage email drip offering a $50 loyalty credit to customers entering      the 90–120 day inactivity window.
+2. Automated Re-engagement Campaigns: Implement a 3-stage email drip offering a $50 loyalty credit to customers entering the 90–120-day inactivity window.
 
-# 3. Target ROI: Protecting just 25% of the identified revenue at risk yields a ~$85,000 net revenue recovery.
+3. Target ROI: Protecting just 25% of the identified revenue at risk yields a ~$85,000 net revenue recovery.
