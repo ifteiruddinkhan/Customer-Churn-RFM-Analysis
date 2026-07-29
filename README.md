@@ -2,7 +2,7 @@
 An end-to-end data analytics project examining customer retention, behavioral segmentation (RFM Analysis), and revenue risk for an e-commerce platform using the Online Retail II dataset.
 
 # 🎯 Business Problem & Core Question
-Primary Question: "Which customers are at risk of churning, and how much revenue does that put at risk over the next quarter?"
+# Primary Question: "Which customers are at risk of churning, and how much revenue does that put at risk over the next quarter?"
 
 Customer acquisition costs in retail continue to climb, making retention a top driver of profitability. The goal of this project is to build an automated data pipeline that:
 
