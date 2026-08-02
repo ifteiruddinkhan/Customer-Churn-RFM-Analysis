@@ -30,4 +30,3 @@ Customer acquisition costs in retail continue to climb, making retention a top d
 
 ## Dashboard
 ![Dashboard Overview](Dashboard%20Overview.png)
-![RFM Segment Breakdown](RFM%20Segment%20Breakdown.png)
