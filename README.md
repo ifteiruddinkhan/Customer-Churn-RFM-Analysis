@@ -27,6 +27,3 @@ Customer acquisition costs in retail continue to climb, making retention a top d
 2. Automated Re-engagement Campaigns: Implement a 3-stage email drip offering a $50 loyalty credit to customers entering the 90–120-day inactivity window.
 
 3. Target ROI: Protecting just 25% of the identified revenue at risk yields a ~$85,000 net revenue recovery.
-
-## Dashboard
-![Dashboard Overview](Dashboard%20Overview.png)
