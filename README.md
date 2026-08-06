@@ -33,7 +33,7 @@ Clone or download this repository:
 
 Bash
 git clone [https://github.com/ifteiruddinkhan/Customer-Churn-RFM-Analysis](https://github.com/ifteiruddinkhan/Customer-Churn-RFM-Analysis)
-Run the scripts in the /sql directory on your PostgreSQL/MySQL database to create the required views.
+Run the scripts in the python directory to create the required views.
 
 Open [Customer churn Dashboard.pbix](https://github.com/ifteiruddinkhan/Customer-Churn-RFM-Analysis/blob/main/Customer%20churn%20Dashboard.pbix) using Power BI Desktop.
 
